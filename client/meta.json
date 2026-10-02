@@ -1,0 +1,7 @@
+{
+  "day": "10 / 20",
+  "title": "Video ve HLS İşleme Platformu",
+  "description": "MP4 yükle, arka planda HLS parçalarına dönüştür ve tarayıcıda oynat.",
+  "mode": "FFmpeg gerekli · kısa video demosu",
+  "note": "Kapsam ve ileri adımlar: PROJECT_DETAILS.pdf"
+}
